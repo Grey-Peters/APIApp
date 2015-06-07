@@ -1,0 +1,5 @@
+http://stackoverflow.com/questions/52704/how-do-you-discard-unstaged-changes-in-git
+
+git stash save --keep-index
+
+git stash drop
