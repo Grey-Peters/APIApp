@@ -2,10 +2,9 @@
     <string name="app_name">FinalProject</string>
     <string name="action_settings">Settings</string>
     <string name="facebook_app_id">108513282818907</string>
-    <string name="title_activity_post">Post</string>
-
-    <string name="hello_world">Hello world!</string>
-
-<!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_post">PostActivity</string>
+    <string name="Title">WhereMeAt?</string>
+    <string name="Locate_Me">Locate Me</string>
+    <string name="Photo">Photo</string>
+    <string name="Post_To_Facebook">Post To Facebook</string>
 </resources>
